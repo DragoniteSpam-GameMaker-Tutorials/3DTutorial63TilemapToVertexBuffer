@@ -1,0 +1,50 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "3DTutorial63TilemapToVertexBuffer",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+  ],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"merry.d3d","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sphere.d3d","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"tree1.d3d","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"tree2.d3d","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"tree3.d3d","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"tree4.d3d","CopyToMask":-1,"filePath":"datafiles",},
+  ],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.6.0.89",
+  },
+  "resources": [
+    {"id":{"name":"scr_draw_all_the_stuff","path":"scripts/scr_draw_all_the_stuff/scr_draw_all_the_stuff.yy",},},
+    {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
+    {"id":{"name":"vertex_add_point","path":"scripts/vertex_add_point/vertex_add_point.yy",},},
+    {"id":{"name":"load_model","path":"scripts/load_model/load_model.yy",},},
+    {"id":{"name":"ts_main","path":"tilesets/ts_main/ts_main.yy",},},
+    {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},},
+    {"id":{"name":"screen_to_world","path":"scripts/screen_to_world/screen_to_world.yy",},},
+    {"id":{"name":"shd_basic_3d_stuff","path":"shaders/shd_basic_3d_stuff/shd_basic_3d_stuff.yy",},},
+    {"id":{"name":"spr_main","path":"sprites/spr_main/spr_main.yy",},},
+    {"id":{"name":"vertex_buffer_to_wireframe","path":"scripts/vertex_buffer_to_wireframe/vertex_buffer_to_wireframe.yy",},},
+    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},},
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
