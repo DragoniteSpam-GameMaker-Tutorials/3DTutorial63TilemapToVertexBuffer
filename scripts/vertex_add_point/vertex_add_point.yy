@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "3DTutorial63TilemapToVertexBuffer",
+    "path": "3DTutorial63TilemapToVertexBuffer.yyp",
   },
 }

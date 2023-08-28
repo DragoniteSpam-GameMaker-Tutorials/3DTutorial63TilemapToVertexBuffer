@@ -50,3 +50,5 @@ for (var i = 0; i < n; i++) {
         y: random_range(0, 900),
     };
 }
+
+tilemap_vb = tilemap_to_vertex_buffer("GroundTiles", vertex_format);
